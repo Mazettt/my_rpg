@@ -2,12 +2,18 @@
 
 A RPG game made in C with CSFML library.
 
+> Done between March, 21 2022 and May, 8 2022
+
+## Requirements
+
+- SFML and CSFML
+- Make
+- GCC
+
 ## Install
 
 ```sh
-git clone git@github.com:Mazettt/my_rpg.git
-cd my_rpg
-make
+git clone git@github.com:Mazettt/my_rpg.git && cd my_rpg && make
 ```
 
 ## Usage
@@ -34,7 +40,3 @@ make
 
 * Github: [@Loutchau](https://github.com/Loutchau)
 * LinkedIn: [@luca-haumesser](https://linkedin.com/in/luca-haumesser)
-
-## Show your support
-
-Give a ⭐️ if you like this project!
